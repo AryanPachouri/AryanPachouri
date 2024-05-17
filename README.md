@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on Upskilling My skills 
 
-- 🌱 I’m currently learning Frontend
+- 🌱 I’m currently learning Web Development
 
-- 👯 I’m looking to collaborate to Open Source
+- 👯 I’m looking to collaborate with Open Source
 
-- 🤔 I’m looking for help with internship
+- 🤔 I’m looking for help with an internship
 
 - 📫 How to reach me: Email - aryanpachouri03@gmail.com
 
