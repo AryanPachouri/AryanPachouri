@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on Upskilling My skills 
 
-- 🌱 I’m currently learning Web Development
+- 🌱 I’m currently learning DSA
 
 - 👯 I’m looking to collaborate with Open Source
 
